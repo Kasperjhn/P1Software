@@ -59,16 +59,12 @@ int main(void) {
 
 
 int el_cmp(const void *ep1, const void *ep2) {
-	person *a = ((person*)ep1),
-		   *b = ((person*)ep2);
-	
-	if (strcmp(a->efternavn, b->efternavn) < 0)
-		return -1;
-	else 
-		return 1;
+	Nyt indholde haha.;
 }
 
 
 
-
+int nyfunktion(int i){
+	hejsa med dig!;
+}
 
